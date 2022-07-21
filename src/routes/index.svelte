@@ -8,7 +8,7 @@
     <div class="text-center mb-8"><img src="/logo-red.png" class="inline-block w-[300px]" /></div>
     <div class="transition-all text-[#E73845] "><h1 class="text-6xl opacity-100">ETHBrno²<br/><span class="whitespace-nowrap">(🔑,😎)</span></h1></div>
     <div class="mt-8 text-2xl uppercase tracking-widest font-italic">&gt; Privacy & Security edition &lt;</div>
-    <div class="mt-4 text-sm opacity-50 lowercase">#anonymity #non-kyc #encryption #selfsovereignty #p2p #smartcontracts #audits #vulnerabilities #analytics #wallets #scams #MEV #zeroknowledgeproofs #zkp </div>
+    <div class="mt-4 text-sm opacity-50 lowercase">#freedom #anonymity #non-kyc #encryption #selfsovereignty #p2p #opensource #web3 #smartcontracts #audits #vulnerabilities #analytics #wallets #scams #darkforest #MEV #zeroknowledgeproofs</div>
     <div class="mt-4 text-xl uppercase">October 2022 @ Brno, Czech Republic</div>
     <!--div class="mt-8 text-sm">Apply to <a href="#" class="underline hover:text-[#E73845] transition-all">hack</a>, <a href="#" class="underline hover:text-[#E73845] transition-all">speak</a>, <a href="#" class="underline hover:text-[#E73845] transition-all">volunteer</a> ― <a href="#" class="underline hover:text-[#E73845] transition-all">Sponsor us</a></div-->
     <div class="mt-8 text-3xl transition-all opacity-80">
