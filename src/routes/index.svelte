@@ -12,7 +12,7 @@
     <div class="mt-8">October 2022 @ Brno, Czech Republic</div>
     <div class="mt-8 text-3xl transition-all opacity-80">
       <a href="https://twitter.com/ethbrno" target="_blank"><i class="fab fa-twitter hover:text-[#E73845] transition-all"></i></a>
-      <a href="https://docs.ethbrno.cz/" target="_blank"><i class="fa-solid fa-book hover:text-[#E73845] transition-all"></i></a>
+      <a href="https://docs.ethbrno.cz/2022" target="_blank"><i class="fa-solid fa-book hover:text-[#E73845] transition-all"></i></a>
       <a href="https://github.com/gweicz/ethbrno/" target="_blank"><i class="fa-brands fa-github hover:text-[#E73845] transition-all"></i></a>
     </div>
   </div>
