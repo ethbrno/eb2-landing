@@ -1,5 +1,6 @@
 <svelte:head>
   <title>ETHBrno²</title>
+  <meta name="description" content="November 11-13, 2022 @ Brno ← privacy security lunarpunk hackathon">
 </svelte:head>
 
 
@@ -8,7 +9,7 @@
     <div class="text-center mb-8"><a href="https://docs.ethbrno.cz/events/2022"><img src="/logo-red.png" class="inline-block w-[300px] animate-pulse hover:animate-none transition-all" /></a></div>
     <div class="transition-all text-[#E73845] "><h1 class="text-6xl opacity-100">ETHBrno²<br/><span class="whitespace-nowrap">(🔑,😎)</span></h1></div>
     <div class="mt-8 text-2xl uppercase tracking-widest font-italic">&gt; Privacy & Security edition &lt;</div>
-    <div class="mt-4 text-sm opacity-50 lowercase">#freedom #anonymity #non-kyc #encryption #selfsovereignty #p2p #opensource #web3 #smartcontracts #audits #vulnerabilities #analytics #wallets #scams #darkforest #MEV #zeroknowledgeproofs</div>
+    <div class="mt-4 text-sm opacity-50 lowercase">#freedom #anonymity #non-kyc #encryption #selfsovereignty #p2p #opensource #web3 #smartcontracts #audits #vulnerabilities #analytics #wallets #scams #darkforest #MEV #zeroknowledgeproofs #cypherpunk #lunarpunk #hackathon</div>
     <div class="mt-4 text-xl uppercase">November 11-13, 2022 @ Brno, Czech Republic</div>
     <div class="mt-4 text-sm">For more informations read "<a href="https://mirror.xyz/ethbrno.eth/6BH9cUVuD85hy5O0L5cOOOE7niSA9Yo5eWsXVzKOlO4" target="_blank" class="underline hover:no-underline">Announcing ETHBrno²</a>" article or <a href="https://docs.ethbrno.cz/events/2022" target="_blank" class="underline hover:no-underline">visit our Documentation</a></div>
     <div class="mt-8">
