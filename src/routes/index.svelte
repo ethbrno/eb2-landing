@@ -18,13 +18,14 @@
     <div class="mt-4 text-sm opacity-70">
       (you can be hacker, volunteer, mentor, speaker or judge)
     </div>
-  <div class="mt-8 text-sm">We are also looking for <a href="https://ethbrno.cz/sponsor-deck.pdf" class="underline hover:text-[#E73845] transition-all">sponsors</a></div>
+    <div class="mt-2 text-sm">We are also looking for <a href="https://ethbrno.cz/sponsor-deck.pdf" class="underline hover:text-[#E73845] transition-all">sponsors</a></div>
+    <div class="mt-8">Join our matrix space: <a href="https://matrix.to/#/#ethbrno:gwei.cz" class="underline hover:no-underline">#ethbrno:gwei.cz</a></div>
     <div class="mt-8 text-3xl transition-all opacity-80">
       <a href="https://docs.ethbrno.cz/events/2022" target="_blank"><i class="fa-solid fa-book hover:text-[#E73845] transition-all"></i></a>
-      <a href="https://github.com/gweicz/ethbrno/" target="_blank"><i class="fa-brands fa-github hover:text-[#E73845] transition-all"></i></a>
+      <!--a href="https://github.com/gweicz/ethbrno/" target="_blank"><i class="fa-brands fa-github hover:text-[#E73845] transition-all"></i></a-->
       <!--a href="https://app.dework.xyz/ethbrno" target="_blank"><img src="/dework-logo-bw.png" class="inline-block w-7 invert m-0 p-0"></a-->
       <!--a href="https://matrix.to/#/#ethbrno:matrix.org" target="_blank"><i class="fa-solid fa-comment hover:text-[#E73845] transition-all"></i></a-->
-      <a href="https://discord.com/invite/qTCka7qtPZ" target="_blank"><i class="fa-brands fa-discord hover:text-[#E73845] transition-all"></i></a>
+      <!--a href="https://discord.com/invite/qTCka7qtPZ" target="_blank"><i class="fa-brands fa-discord hover:text-[#E73845] transition-all"></i></a-->
       <a href="https://mirror.xyz/ethbrno.eth" target="_blank"><i class="fa-solid fa-newspaper hover:text-[#E73845] transition-all"></i></a>
       <a href="https://twitter.com/ethbrno" target="_blank"><i class="fab fa-twitter hover:text-[#E73845] transition-all"></i></a>
     </div>
